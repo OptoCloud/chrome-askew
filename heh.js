@@ -3,12 +3,6 @@ for(let i = 0; i < texts.length; i++){
     
 }
 
-let images = document.getElementsByTagName('img');
-for(let i = 0; i < images.length; i++){
-    // Tint the image
-    images[i].style.filter = 'hue-rotate(5deg)';
-}
-
 var scrollDirection = 1;
 let timer = setInterval(function(){
     window.scrollBy(0, scrollDirection * 2);
