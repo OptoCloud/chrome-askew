@@ -1,10 +1,6 @@
 let texts = document.getElementsByTagName('p');
 for(let i = 0; i < texts.length; i++){
-    // Add a click event listener to each paragraph
-    texts[i].addEventListener('click', function(){
-        // Change the color of the paragraph
-        this.style.color = 'red';
-    });
+    
 }
 
 let images = document.getElementsByTagName('img');
