@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+   
+    "name": "Askew",
+    "version": "0.1.0",
+    "description": "Oh boy...",
+   
+    "content_scripts": [{
+      "css": ["styles.css"],
+      "matches": [ "*://*/*" ]
+    }]
+  }
