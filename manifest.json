@@ -6,6 +6,7 @@
     "description": "Oh boy...",
    
     "content_scripts": [{
+      "js": ["heh.js"],
       "css": ["styles.css"],
       "matches": [ "*://*/*" ]
     }]
