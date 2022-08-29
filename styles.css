@@ -13,8 +13,7 @@
 }
 
 body {
-    animation: askewBodySway 3600s infinite linear;
-    animation: youBlinked 300s infinite linear;
+    animation: askewBodySway 3600s infinite linear, youBlinked 300s infinite linear;
 }
 
 img {
