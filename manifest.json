@@ -2,7 +2,7 @@
     "manifest_version": 3,
    
     "name": "Askew",
-    "version": "0.0.0.1",
+    "version": "1.0.0.0",
     "description": "Askew is a browser extension that drives its users to the edge of insanity.",
     "icons": {
         "16": "images/icon16.png",
